@@ -1,0 +1,10 @@
+# CFO Agent dependencies
+openai>=1.0.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+python-dotenv>=1.0.0
+flask>=3.0.0
+
+# Google Drive integration (via gws CLI — installed separately via npm)
+# npm install -g @googleworkspace/cli
+# gws auth setup
